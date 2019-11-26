@@ -1,0 +1,1 @@
+# minhqit2-Understanding-Math-before-going-to-SVM-maths
